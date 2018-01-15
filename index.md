@@ -42,7 +42,7 @@ style: |
 ## Пример объявления
 {:.images}
 
-![](themes/yandex2/images/images-one.svg)
+![](pictures/adv-preview.png)
 
 ## Настройки объявления
 {:.images}
