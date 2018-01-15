@@ -95,13 +95,10 @@ describe('Test Suite', function(){
 
         // navigate to a new URL
         browser.url('https://yandex.ru');
-
         browser.setValue('#input', 'Я.Субботник');
-
         browser.submitForm('#search-form');
 
-	var title = browser.getTitle();
-    
+        var title = browser.getTitle();
         expect(title).equals('Я.Субботник - Яндекс: нашлось 52 млн. результатов');
     })
 });
