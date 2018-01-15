@@ -31,6 +31,17 @@ style: |
 
 </div>
 
+## Почему мы пишем тесты?
+{:.section}
+
+## Selenium-тесты
+{:.section}
+
+## Тесты в headless браузерах
+{:.section}
+
+## DEMO!
+
 ## Название раздела
 {:.section}
 
