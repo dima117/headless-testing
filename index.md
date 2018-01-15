@@ -57,6 +57,8 @@ style: |
 ## Selenium-тесты
 {:.section}
 
+## Как это работает?
+
 - Selenium WebDriver
 - браузер
 - тесты
