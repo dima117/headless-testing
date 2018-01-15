@@ -92,6 +92,10 @@ style: |
 
 ![](pictures/headless.jpg){:.headless}
 
+## Как это работает?
+
+![](pictures/headless-scheme.png){:.selenium}
+
 ## DEMO!
 
 ## Название раздела
