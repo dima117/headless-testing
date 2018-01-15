@@ -4,7 +4,12 @@ layout: yandex2
 
 style: |
     /* собственные стили можно писать здесь!! */
-
+    
+    .selenium-img { width: 800px; margin: 0 auto;}
+    .adv-direct { width: 800px; margin: 0 auto;}
+    .adv-preview2 { width: 800px; margin: 0 auto;}
+    
+    
 
 ---
 
@@ -42,12 +47,12 @@ style: |
 ## Пример объявления
 {:.images}
 
-![](pictures/adv-preview2.png)
+![](pictures/adv-preview2.png){:.adv-preview2}
 
 ## Настройки объявления
 {:.images}
 
-![](pictures/adv-direct.png)
+![](pictures/adv-direct.png){:.adv-direct}
 
 ## Заголовок будет скрыт
 {:.fullscreen}
@@ -59,9 +64,7 @@ style: |
 
 ## Как это работает?
 
-- Selenium WebDriver
-- браузер
-- тесты
+![](pictures/selenium.png){:.selenium-img}
 
 ## Достоинства
 
