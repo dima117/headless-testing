@@ -42,7 +42,7 @@ style: |
 ## Пример объявления
 {:.images}
 
-![](pictures/adv-preview.png)
+![](pictures/adv-preview2.png)
 
 ## Настройки объявления
 {:.images}
