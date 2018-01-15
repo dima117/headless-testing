@@ -49,6 +49,10 @@ style: |
 
 ![](themes/yandex2/images/images-one.svg)
 
+## Заголовок будет скрыт
+{:.fullscreen}
+
+![](pictures/adv-settings.png)
 
 
 ## Selenium-тесты
