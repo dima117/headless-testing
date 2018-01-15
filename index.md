@@ -5,9 +5,10 @@ layout: yandex2
 style: |
     /* собственные стили можно писать здесь!! */
     
-    .selenium-img { width: 800px; margin: 0 auto;}
-    .adv-direct { width: 800px; margin: 0 auto;}
-    .adv-preview2 { width: 800px; margin: 0 auto;}
+    .selenium { width: 1200px; margin: 0 auto;}
+    .adv-direct { width: 1000px; margin: 0 auto;}
+    .adv-preview2 { width: 1200px; margin: 0 auto;}
+    .headless { width: 1000px; margin: 0 auto;}    
     
     
 
@@ -64,7 +65,7 @@ style: |
 
 ## Как это работает?
 
-![](pictures/selenium.png){:.selenium-img}
+![](pictures/selenium.png){:.selenium}
 
 ## Достоинства
 
@@ -85,7 +86,7 @@ style: |
 ## Заголовок будет скрыт
 {:.fullscreen}
 
-![](pictures/headless.jpg)
+![](pictures/headless.jpg){:.headless}
 
 ## DEMO!
 
