@@ -34,6 +34,23 @@ style: |
 ## Почему мы пишем тесты?
 {:.section}
 
+## Директ - очень большой проект
+
+- {:.next}большая команда
+- {:.next}сложная предметная область
+
+## Пример объявления
+{:.images}
+
+![](themes/yandex2/images/images-one.svg)
+
+## Настройки объявления
+{:.images}
+
+![](themes/yandex2/images/images-one.svg)
+
+
+
 ## Selenium-тесты
 {:.section}
 
