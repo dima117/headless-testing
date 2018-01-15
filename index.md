@@ -47,7 +47,7 @@ style: |
 ## Настройки объявления
 {:.images}
 
-![](themes/yandex2/images/images-one.svg)
+![](pictures/adv-direct.png)
 
 ## Заголовок будет скрыт
 {:.fullscreen}
