@@ -65,7 +65,7 @@ style: |
 ![](pictures/adv-preview-1.png){:.xxx-image}
 
 ## Настройки объявления
-{:.images}
+{:.fullscreen}
 
 ![](pictures/adv-form-0.png){:.xxx-image-gr}
 
