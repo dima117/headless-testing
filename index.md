@@ -6,7 +6,7 @@ style: |
     /* собственные стили можно писать здесь!! */
     
     .xxx-image { margin: 30px auto;}
-    .xxx-image-gr { border: 1px solid #ccc; margin: 30px auto;}
+    .xxx-image-gr { border: 1px solid #ccc; margin: 90px auto;}
     .selenium { width: 1200px; margin: 0 auto;}
     .adv-direct { width: 1000px; margin: 0 auto;}
     .adv-preview2 { width: 1200px; margin: 0 auto;}
