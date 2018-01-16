@@ -6,6 +6,7 @@ style: |
     /* собственные стили можно писать здесь!! */
     
     .xxx-image { margin: 30px auto;}
+    .xxx-image-gr { border: 1px solid #ccc; margin: 30px auto;}
     .selenium { width: 1200px; margin: 0 auto;}
     .adv-direct { width: 1000px; margin: 0 auto;}
     .adv-preview2 { width: 1200px; margin: 0 auto;}
@@ -66,7 +67,17 @@ style: |
 ## Настройки объявления
 {:.images}
 
-![](pictures/adv-direct.png){:.adv-direct}
+![](pictures/adv-form-0.png){:.xxx-image-gr}
+
+## Пример объявления
+{:.images}
+
+![](pictures/adv-preview-1.png){:.xxx-image}
+
+## Пример объявления
+{:.images}
+
+![](pictures/adv-preview-2.png){:.xxx-image}
 
 ## Заголовок будет скрыт
 {:.fullscreen}
