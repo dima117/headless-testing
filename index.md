@@ -5,7 +5,7 @@ layout: yandex2
 style: |
     /* собственные стили можно писать здесь!! */
     
-    .xxx-image { margin: 60px auto;}
+    .xxx-image { margin: 30px auto;}
     .selenium { width: 1200px; margin: 0 auto;}
     .adv-direct { width: 1000px; margin: 0 auto;}
     .adv-preview2 { width: 1200px; margin: 0 auto;}
@@ -57,6 +57,11 @@ style: |
 {:.images}
 
 ![](pictures/adv-preview-0.png){:.xxx-image}
+
+## Пример объявления
+{:.images}
+
+![](pictures/adv-preview-1.png){:.xxx-image}
 
 ## Настройки объявления
 {:.images}
