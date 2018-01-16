@@ -16,7 +16,7 @@ style: |
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
 
-## {{ site.presentation.title }}
+## {{ site.presentation.title }}<br />в Headless Chrome
 {:.title}
 
 ### ![](themes/yandex2/images/title-logo-{{ site.presentation.lang }}.svg){{ site.presentation.service }}
