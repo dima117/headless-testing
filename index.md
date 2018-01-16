@@ -51,7 +51,7 @@ style: |
 ## Директ - очень большой проект
 {:.fullscreen}
 
-![](pictures/direct-screenshot.png){:.xxx-image}
+![](pictures/direct-screenshot-2.png){:.xxx-image}
 
 ## Пример объявления
 {:.images}
