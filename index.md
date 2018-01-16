@@ -5,6 +5,7 @@ layout: yandex2
 style: |
     /* собственные стили можно писать здесь!! */
     
+    .xxx-image { margin: 0 auto;}
     .selenium { width: 1200px; margin: 0 auto;}
     .adv-direct { width: 1000px; margin: 0 auto;}
     .adv-preview2 { width: 1200px; margin: 0 auto;}
@@ -48,8 +49,9 @@ style: |
 {:.section}
 
 ## Директ - очень большой проект
+{:.fullscreen}
 
-![](pictures/direct-screenshot.png)
+![](pictures/direct-screenshot.png){:.xxx-image}
 
 ## Пример объявления
 {:.images}
