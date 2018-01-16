@@ -56,7 +56,7 @@ style: |
 ## Пример объявления
 {:.images}
 
-![](pictures/adv-preview2.png){:.adv-preview2}
+![](pictures/adv-preview-0.png){:.xxx-image}
 
 ## Настройки объявления
 {:.images}
