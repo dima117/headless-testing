@@ -29,7 +29,8 @@ style: |
 <div class="authors">
 {% if site.author %}
 <p>{{ site.author.name }}{% if site.author.position %}{% endif %}</p>
-<p>{{ site.author.position }}, Яндекс.Директ</p>
+<p>{{ site.author.position }}</p>
+<p>Яндекс.Директ</p>
 {% endif %}
 
 {% if site.author2 %}
