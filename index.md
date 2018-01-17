@@ -251,10 +251,11 @@ describe('Test Suite', function(){
 
 <!-- left -->
 - {:.mail}dima117a@yandex-team.ru
-- {:.telegram}dima117a
 - {:.github}dima117
 
 <!-- right -->
+- {:.skype}dima117a
+- {:.telegram}dima117a
 
 <!-- 
 - {:.twitter}@author
