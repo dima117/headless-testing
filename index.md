@@ -163,17 +163,17 @@ describe('Test Suite', function(){
 
 ## Достоинства
 
-![](pictures/selenium-browsers-1.png)
+![](pictures/selenium-browsers-2.png)
 {:.image-right}
 
-- <b>Общий API для разных браузеров<b>
+- <b>Общий API для всех браузеров<b>
 
 ## Достоинства
 
 ![](pictures/selenium-browsers-1.png)
 {:.image-right}
 
-- Общий API для разных браузеров
+- Общий API для всех браузеров
 - <b>Масштабируемость<b>
 
 ## Только интеграционные тесты!
