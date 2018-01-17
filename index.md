@@ -84,6 +84,49 @@ style: |
 
 ![](pictures/adv-settings.png)
 
+## большой проект, часто меняется, пишем тесты, необохдимый рабочий инструмент
+
+## Тестирование веб-интерфейса
+{:.section}
+
+## Тесты для класса/функции
+
+```js
+describe('MyClass', () => {
+
+  it('Метод myAction должен возвращать -1', () => {
+      // подготовка
+      let obj = new MyClass();
+      
+      // действие
+      let result = obj.myAction();
+      
+      // проверка
+      assert.equal(result, -1);
+  });
+});
+```
+
+## Тесты для веб-интерфейса
+
+```js
+describe('MyForm', () => {
+
+  it('Должна быть ошибка, если форма не заполнена', () => {
+      // подготовка
+      let form = createForm();
+      document.appendChild(form);
+      
+      // действие
+      form.submit();
+      
+      // проверка
+      var errorMessage = form.querySelector('.errors');
+      assert.equal(errorMessage.innerText, 'Заполните все поля');
+  });
+});
+```
+
 ## Selenium-тесты
 {:.section}
 
