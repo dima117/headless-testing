@@ -212,10 +212,8 @@ describe('Test Suite', function(){
 
 ### Ссылка: mocha-headless-chrome
 
-## [DEMO](#)
-{:.blockquote}
-
-### Ссылка на репозиторий с примером
+## DEMO
+{:.section}
 
 ## Контакты 
 {:.contacts}
@@ -252,15 +250,15 @@ describe('Test Suite', function(){
 -------
 
 <!-- left -->
-- {:.skype}author
-- {:.mail}author@yandex-team.ru
-- {:.github}author
+- {:.mail}dima117a@yandex-team.ru
+- {:.telegram}dima117a
+- {:.github}dima117
 
 <!-- right -->
-- {:.twitter}@author
-- {:.facebook}author
 
 <!-- 
+- {:.twitter}@author
+- {:.facebook}author
 
 - {:.mail}author@yandex-team.ru
 - {:.phone}+7-999-888-7766
