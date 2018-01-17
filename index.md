@@ -184,9 +184,10 @@ describe('Test Suite', function(){
 
 ### Отличия модульных и интеграционных тестов
 
-## Как это работает?
+## Заголовок будет скрыт
+{:.fullscreen}
 
-![](pictures/selenium.png){:.selenium}
+![](pictures/elenium-restrictions-0.png)
 
 
 ## Тесты в headless браузерах
