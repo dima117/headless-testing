@@ -82,7 +82,7 @@ style: |
 ## Заголовок будет скрыт
 {:.fullscreen}
 
-![](pictures/adv-settings.png)
+![](pictures/adv-settings-0.png)
 
 ## большой проект, часто меняется, пишем тесты, необохдимый рабочий инструмент
 
@@ -179,7 +179,7 @@ describe('Test Suite', function(){
 ## Заголовок будет скрыт
 {:.fullscreen}
 
-![](pictures/headless.jpg){:.headless}
+![](pictures/headless-0.jpg){:.headless}
 
 ## Как это работает?
 
