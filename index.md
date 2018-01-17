@@ -134,11 +134,18 @@ describe('MyForm', () => {
 ## Selenium-тесты
 {:.section}
 
+## Заголовок будет скрыт
+{:.fullscreen}
+
+![](pictures/selenium-browsers-0.png)
+
 ## Как это работает?
 
 ![](pictures/selenium.png){:.selenium}
 
 ## Достоинства
+
+### разнести на 3 слайда с картинками
 
 - одинаковый API для разных браузеров
 - масштабируемость
