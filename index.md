@@ -207,10 +207,8 @@ describe('Test Suite', function(){
 
 ![](pictures/phantomjs-scheme-0.png)
 
-## ???
-{:.blockquote}
-
-### Ссылка: mocha-headless-chrome
+## [mocha-headless-chrome](#)
+{:.shout}
 
 ## DEMO
 {:.section}
