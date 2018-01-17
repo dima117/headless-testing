@@ -127,6 +127,11 @@ describe('MyForm', () => {
 });
 ```
 
+## Заголовок будет скрыт
+{:.fullscreen}
+
+![](pictures/phantom-vs-selenium.png)
+
 ## Selenium-тесты
 {:.section}
 
