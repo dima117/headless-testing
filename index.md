@@ -5,7 +5,7 @@ layout: yandex2
 style: |
     /* собственные стили можно писать здесь!! */
     
-    .xxx-image { margin: 30px auto;}
+    .xxx-image { margin: 0 auto;}
     .xxx-image-gr { border: 1px solid #ccc; margin: 90px auto;}
     .selenium { width: 1200px; margin: 0 auto;}
     .adv-direct { width: 1000px; margin: 0 auto;}
@@ -93,7 +93,6 @@ style: |
 
 ```js
 describe('MyClass', () => {
-
   it('Метод myAction должен возвращать -1', () => {
       // подготовка
       let obj = new MyClass();
@@ -111,11 +110,9 @@ describe('MyClass', () => {
 
 ```js
 describe('MyForm', () => {
-
   it('Должна быть ошибка, если форма не заполнена', () => {
       // подготовка
       let form = createForm();
-      document.appendChild(form);
       
       // действие
       form.submit();
