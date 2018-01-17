@@ -137,12 +137,26 @@ describe('MyForm', () => {
 ## Заголовок будет скрыт
 {:.fullscreen}
 
-![](pictures/selenium-browsers-0.png)
+![](pictures/selenium-scheme-0.png)
 
-## Заголовок будет скрыт
+## Пример Selenium-теста
 {:.fullscreen}
 
-![](pictures/selenium-scheme-0.png)
+```js
+describe('Test Suite', function(){
+    it('Test Case', function(){
+        // подготовка
+        browser.url('https://yandex.ru');
+        
+        // действие
+        browser.setValue('#input', 'Я.Субботник');
+        browser.submitForm('#search-form');
+
+        // проверка
+        expect(browser.getTitle()).equals('Я.Субботник - Яндекс: нашлось 52 млн. результатов');
+    })
+});
+```
 
 ## Достоинства
 
@@ -163,25 +177,6 @@ describe('MyForm', () => {
 
 ![](pictures/selenium.png){:.selenium}
 
-## Исходный код (js)
-
-Пояснение для кода.
-
-```js
-describe('Test Suite', function(){
-
-    it('Test Case', function(){
-
-        // navigate to a new URL
-        browser.url('https://yandex.ru');
-        browser.setValue('#input', 'Я.Субботник');
-        browser.submitForm('#search-form');
-
-        var title = browser.getTitle();
-        expect(title).equals('Я.Субботник - Яндекс: нашлось 52 млн. результатов');
-    })
-});
-```
 
 ## Тесты в headless браузерах
 {:.section}
