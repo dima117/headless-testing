@@ -197,9 +197,10 @@ describe('Test Suite', function(){
 
 ![](pictures/headless-0.jpg)
 
-## Как это работает?
+## Заголовок будет скрыт
+{:.fullscreen}
 
-![](pictures/headless-scheme.png){:.selenium}
+![](pictures/phantomjs-scheme-0.png)
 
 ## DEMO!
 ## Контакты 
