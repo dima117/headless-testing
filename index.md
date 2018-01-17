@@ -187,8 +187,7 @@ describe('Test Suite', function(){
 ## Заголовок будет скрыт
 {:.fullscreen}
 
-![](pictures/elenium-restrictions-0.png)
-
+![](pictures/selenium-restrictions-0.png)
 
 ## Тесты в headless браузерах
 {:.section}
