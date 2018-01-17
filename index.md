@@ -175,6 +175,11 @@ describe('Test Suite', function(){
 
 - Общий API для всех браузеров
 - <b>Масштабируемость<b>
+    
+## ???
+{:.blockquote}
+
+### Ссылки: hermione + nightwatch
 
 ## Только<br/>интеграционные тесты!
 {:.blockquote}
@@ -202,7 +207,16 @@ describe('Test Suite', function(){
 
 ![](pictures/phantomjs-scheme-0.png)
 
-## DEMO!
+## ???
+{:.blockquote}
+
+### Ссылка: mocha-headless-chrome
+
+## [DEMO](#)
+{:.blockquote}
+
+### Ссылка на репозиторий с примером
+
 ## Контакты 
 {:.contacts}
 
