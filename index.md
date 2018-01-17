@@ -176,10 +176,8 @@ describe('Test Suite', function(){
 - Общий API для всех браузеров
 - <b>Масштабируемость<b>
     
-## ???
-{:.blockquote}
-
-### Ссылки: hermione + nightwatch
+## [hermione](#)<br/>[nightwatch](#)
+{:.shout}    
 
 ## Только<br/>интеграционные тесты!
 {:.blockquote}
