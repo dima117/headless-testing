@@ -144,7 +144,9 @@ describe('MyForm', () => {
 
 ```js
 describe('Test Suite', function(){
+
     it('Test Case', function(){
+
         // подготовка
         browser.url('https://yandex.ru');
         
@@ -153,7 +155,8 @@ describe('Test Suite', function(){
         browser.submitForm('#search-form');
 
         // проверка
-        expect(browser.getTitle()).equals('Я.Субботник - Яндекс: нашлось 52 млн. результатов');
+        expect(browser.getTitle())
+            .equals('Я.Субботник - Яндекс: нашлось 52 млн. результатов');
     })
 });
 ```
