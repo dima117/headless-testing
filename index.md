@@ -139,9 +139,10 @@ describe('MyForm', () => {
 
 ![](pictures/selenium-browsers-0.png)
 
-## Как это работает?
+## Заголовок будет скрыт
+{:.fullscreen}
 
-![](pictures/selenium.png){:.selenium}
+![](pictures/selenium-scheme-0.png)
 
 ## Достоинства
 
