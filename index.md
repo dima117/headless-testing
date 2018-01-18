@@ -7,7 +7,7 @@ style: |
     
     .xxx-image { margin: 0 auto;}
     .xxx-image-gr { border: 1px solid #ccc; margin: 30px auto;}
-    .xxx-image-adv { width: 100%;}
+    .xxx-image-adv { width: 100%; margin-top: 60px; }
     .xxx-shout h2 { font-size: 103px!important;}
 
 ---
@@ -210,7 +210,7 @@ describe('Test Suite', function(){
 ## Заголовок будет скрыт
 {:.fullscreen}
 
-![](pictures/phantomjs-stop-0.png)
+![](pictures/phantomjs-stop-0.png){:.xxx-image-adv}
 
 ## npm i [mocha-headless-chrome](https://www.npmjs.com/package/mocha-headless-chrome)
 {:.shout .xxx-shout}
