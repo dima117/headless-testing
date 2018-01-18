@@ -8,7 +8,7 @@ style: |
     .xxx-image { margin: 0 auto;}
     .xxx-image-gr { border: 1px solid #ccc; margin: 30px auto;}
     .xxx-image-adv { width: 100%;}
-    .xxx-shout { font-size: 103px;}
+    .xxx-shout h2 { font-size: 103px!important;}
 
 ---
 
