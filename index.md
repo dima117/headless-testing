@@ -52,7 +52,7 @@ style: |
 ## Пример объявления
 {:.images}
 
-![](pictures/adv-preview-0.png){:.xxx-image}
+![](pictures/adv-preview-0.png){:.xxx-image-adv}
 
 ## Пример объявления
 {:.images}
@@ -177,7 +177,7 @@ describe('Test Suite', function(){
 - Общий API для всех браузеров
 - <b>Масштабируемость<b>
     
-## [hermione](#)<br/><br/>[nightwatch.js](#)
+## npm i [hermione](https://www.npmjs.com/package/hermione)<br/><br/>npm i [nightwatch](https://www.npmjs.com/package/nightwatch)
 {:.shout}    
 
 ## Только<br/>интеграционные тесты!
@@ -206,7 +206,7 @@ describe('Test Suite', function(){
 
 ![](pictures/phantomjs-scheme-0.png)
 
-## [mocha-headless-chrome](#)
+## npm i [mocha-headless-chrome](https://www.npmjs.com/package/mocha-headless-chrome)
 {:.shout}
 
 ## DEMO
