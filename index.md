@@ -185,10 +185,10 @@ describe('Test Suite', function(){
 ## Только<br/>интеграционные тесты!
 {:.blockquote}
 
-## ???
-{:.blockquote}
+## Отличия модульных и интеграционных тестов
+{:.fullscreen}
 
-### Отличия модульных и интеграционных тестов
+![](pictures/testing-scheme-0.png)
 
 ## Заголовок будет скрыт
 {:.fullscreen}
@@ -208,10 +208,15 @@ describe('Test Suite', function(){
 
 ![](pictures/phantomjs-scheme-0.png)
 
-## Заголовок будет скрыт
+## PhantomJS остановлен
 {:.fullscreen}
 
 ![](pictures/phantomjs-stop-0.png){:.xxx-image-phantom}
+
+## puppeteer
+{:.fullscreen}
+
+![](pictures/puppeteer-0.png)
 
 ## npm i [mocha-headless-chrome](https://www.npmjs.com/package/mocha-headless-chrome)
 {:.shout .xxx-shout}
