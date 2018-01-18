@@ -132,7 +132,7 @@ describe('MyForm', () => {
 ## Заголовок будет скрыт
 {:.fullscreen}
 
-![](pictures/phantom-vs-selenium.png)
+![](pictures/phantom-vs-selenium-1.png)
 
 ## Selenium-тесты
 {:.section}
