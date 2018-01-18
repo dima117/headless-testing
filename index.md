@@ -7,6 +7,7 @@ style: |
     
     .xxx-image { margin: 0 auto;}
     .xxx-image-gr { border: 1px solid #ccc; margin: 30px auto;}
+    .xxx-image-adv { width: 100%;}
 
 ---
 
@@ -56,7 +57,7 @@ style: |
 ## Пример объявления
 {:.images}
 
-![](pictures/adv-preview-1.png){:.xxx-image}
+![](pictures/adv-preview-1.png){:.xxx-image-adv}
 
 ## Настройки объявления
 {:.fullscreen}
@@ -66,12 +67,12 @@ style: |
 ## Пример объявления
 {:.images}
 
-![](pictures/adv-preview-1.png){:.xxx-image}
+![](pictures/adv-preview-1.png){:.xxx-image-adv}
 
 ## Пример объявления
 {:.images}
 
-![](pictures/adv-preview-2.png){:.xxx-image}
+![](pictures/adv-preview-2.png){:.xxx-image-adv}
 
 ## Заголовок будет скрыт
 {:.fullscreen}
