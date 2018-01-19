@@ -182,7 +182,7 @@ describe('Test Suite', function(){
 ## Mocha + Selenium
 {:.fullscreen}
 
-![](pictures/mocha-selenium-0.png)    
+![](pictures/mocha-selenium-1.png)    
     
 ## npm i [hermione](https://www.npmjs.com/package/hermione)<br/><br/>npm i [nightwatch](https://www.npmjs.com/package/nightwatch)
 {:.shout}    
@@ -231,7 +231,7 @@ describe('Test Suite', function(){
 ## Mocha + Selenium
 {:.fullscreen}
 
-![](pictures/mocha-puppeteer-0.png)    
+![](pictures/mocha-puppeteer-1.png)    
 
 ## npm i [mocha-headless-chrome](https://www.npmjs.com/package/mocha-headless-chrome)
 {:.shout .xxx-shout}
