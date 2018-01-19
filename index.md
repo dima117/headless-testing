@@ -81,27 +81,12 @@ style: |
 
 ![](pictures/adv-settings-0.png)
 
-## Много кода
-{:.fullscreen}
+## Исходный код
 
-```shell
-~ $ cd projects/direct/desktop.blocks
-
-# количество блоков
-desktop.blocks $ echo */ | wc -w
-
-872
-
-# количество строк
-desktop.blocks $ find . -type f \( -iname \*.js -o -iname \*.css \) | xargs wc -l
-
-261 923 total
-
-# размер
-desktop.blocks $ du -h
-
-56M
-```
+|  Количество блоков     | 872     |
+|------------------------|---------|
+|  Количество строк кода | 261 923 |
+|  Размер файлов         | 56M     |
 
 ## Выход &mdash; автотесты! 
 {:.blockquote}
