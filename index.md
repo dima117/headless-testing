@@ -193,7 +193,7 @@ describe('Test Suite', function(){
 ## Отличия модульных и интеграционных тестов
 {:.fullscreen}
 
-![](pictures/testing-scheme-0.png)
+![](pictures/testing-scheme-1.png)
 
 ## Заголовок будет скрыт
 {:.fullscreen}
