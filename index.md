@@ -179,6 +179,11 @@ describe('Test Suite', function(){
 - Общий API для всех браузеров
 - <b>Масштабируемость<b>
     
+## Mocha + Selenium
+{:.fullscreen}
+
+![](pictures/mocha-selenium-0.png)    
+    
 ## npm i [hermione](https://www.npmjs.com/package/hermione)<br/><br/>npm i [nightwatch](https://www.npmjs.com/package/nightwatch)
 {:.shout}    
 
@@ -222,6 +227,11 @@ describe('Test Suite', function(){
 {:.fullscreen}
 
 ![](pictures/puppeteer-0.png)
+
+## Mocha + Selenium
+{:.fullscreen}
+
+![](pictures/mocha-puppeteer-0.png)    
 
 ## npm i [mocha-headless-chrome](https://www.npmjs.com/package/mocha-headless-chrome)
 {:.shout .xxx-shout}
