@@ -208,6 +208,11 @@ describe('Test Suite', function(){
 
 ![](pictures/phantomjs-scheme-0.png)
 
+## Заголовок будет скрыт
+{:.fullscreen}
+
+![](pictures/phantomjs-0.png)
+
 ## PhantomJS остановлен
 {:.fullscreen}
 
